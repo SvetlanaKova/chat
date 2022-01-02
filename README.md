@@ -1,1 +1,1 @@
-https://Svetlanahrhr.github.io/chat/index.html
+https://Svetlanahrhr.github.io/chat/hw-chat.html
