@@ -1,0 +1,53 @@
+.wrapper{
+    /* margin: 0 auto;
+    width: 1080px; */
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: repeat(6, auto);
+    align-items: center;
+}
+.message{
+    margin: 5px;
+    text-align: center;
+    /* padding: 15px; */
+}
+.message_anie{
+    background-color: pink;
+    border-radius: 15px 15px 15px 0;
+}
+.message_jack{
+    background-color: rgb(0, 204, 255);
+    border-radius: 15px 15px 0 15px;
+}
+.float_right{
+    float: right;
+}
+.text{
+    float: left;
+    margin-top: 17px;
+}
+.text_jack{
+    float: right;
+    margin-top: 21px;
+}
+.user_jack img{
+    float: left;
+    
+}
+.float_left{
+    float: left;
+}
+h2{
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+.user_anie span{
+    float: right;
+}
+.user_jack{
+    vertical-align: center;
+}
+span{
+    color: rgba(88, 88, 88, 0.726);
+}
